@@ -26,7 +26,7 @@ class CountriesScreen extends React.Component{
                         <View style={styles.cardWrapper}>
                             <Text>City name: {item.name}</Text>
                             <Text>Country name: {item.country}</Text>
-                            <Text>Ciyt description: {item.description}</Text>
+                            <Text>City description: {item.description}</Text>
                         </View>
                       )}
             ></FlatList>
